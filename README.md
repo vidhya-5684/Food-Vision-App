@@ -7,7 +7,7 @@ The first view of the app is look like:
 
 ## Food Image Classification:
 
-* Produced a model using EfficientNet Neural Network to detect the food type from the image of food uploaded. The link to the Jupyternotrbook ishttps://github.com/vidhya-5684/Food-Vision-App/blob/main/model_training.ipynb.
+* Produced a model using EfficientNet Neural Network to detect the food type from the image of food uploaded. The link to the Jupyternotrbook is https://github.com/vidhya-5684/Food-Vision-App/blob/main/model_training.ipynb.
 * Developed a model for the prediction using Streamlite(  http://192.168.0.66:8501).
 * Deployed the model using Google Cloud Platform. 
 
